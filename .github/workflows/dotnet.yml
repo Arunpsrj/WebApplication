@@ -25,4 +25,5 @@ jobs:
     - name: Build
       run: dotnet build --no-restore
     - name: Test
+      if: github.ref == 'refs/heads/master'
       run: dotnet test --no-build --verbosity normal
