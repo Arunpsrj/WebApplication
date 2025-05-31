@@ -28,3 +28,4 @@
 /Users/arunramalingam/dotnet/WebApplication/obj/Debug/net8.0/WebApplication.pdb
 /Users/arunramalingam/dotnet/WebApplication/obj/Debug/net8.0/WebApplication.genruntimeconfig.cache
 /Users/arunramalingam/dotnet/WebApplication/obj/Debug/net8.0/ref/WebApplication.dll
+/Users/arunramalingam/dotnet/WebApplication/obj/Debug/net8.0/WebApplication.sourcelink.json
